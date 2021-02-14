@@ -198,7 +198,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0 / 100" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x40-Se-vrJ">
-                                <rect key="frame" x="118" y="621" width="63" height="18"/>
+                                <rect key="frame" x="118" y="621" width="90" height="18"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="MisakiGothic" family="MisakiGothic" pointSize="18"/>
                                 <color key="textColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -244,7 +244,7 @@
                         <outlet property="playerImageView" destination="pQW-uj-0Nl" id="Dgr-K7-qeW"/>
                         <outlet property="playerMPLabel" destination="yGt-P3-wOP" id="vee-NJ-IAw"/>
                         <outlet property="playerNameLabel" destination="EEy-aa-cBW" id="yMZ-rx-wkD"/>
-                        <outlet property="playerTPLabel" destination="zkz-tM-jpc" id="4zI-9d-iWx"/>
+                        <outlet property="playerTPLabel" destination="x40-Se-vrJ" id="fWB-RU-p2M"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="I0n-fa-huD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
